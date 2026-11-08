@@ -6,9 +6,9 @@ LAURA stands for Long-running, Archival, Uncompacted, Resumable, Accountable. Th
 
 Each agent has working rules that define how it should work collaboratively with you, with explicit fences that ask for your approval before action. You can edit these rules if you want to change how agents behave and work. A meta-agent called @BRAIN sets up and coordinates your agents and their documents. Each project gets one agent with its own folder, in one workspace or several.
 
-Tested with the Claude Code extension 2.1.x, November 2026. *This guide and starter workspace are a snapshot of one person's system, offered as is. Fork it, make it yours, and use it at your own risk.*
+> **Already use Claude Code?** Anything in your `~/.claude/` folder will also load in this workspace. Your own `CLAUDE.md` is read alongside this one, and where two rules conflict, Claude may follow either. A personal skill with the same name as one of the six here runs instead of ours; if you find a clash, rename yours or ours.
 
-> **Already use Claude Code?** Anything in your `~/.claude/` folder loads in this workspace too. Your own `CLAUDE.md` is read alongside this one, and where two rules conflict, Claude may follow either. A personal skill with the same name as one of the six here runs instead of ours; if you find a clash, rename yours or ours.
+> Tested with VS Code 1.144 and the Claude Code extension 2.1.x, November 2026. *This guide and starter workspace are a snapshot of one person's system, offered as is. Fork it, make it yours, and use it at your own risk.*
 
 ## The workspace
 
